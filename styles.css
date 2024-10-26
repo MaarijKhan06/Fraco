@@ -167,3 +167,46 @@ p {
 .email-signup button:hover {
     background-color: #706fd3;
 }
+/* Existing styles remain unchanged */
+
+/* Mobile optimization */
+@media (max-width: 768px) {
+    .hero {
+        padding: 20px;
+        max-width: 90%;
+        box-sizing: border-box;
+    }
+
+    .logo {
+        width: 305px; /* Slightly smaller logo for mobile */
+    }
+
+    p {
+        font-size: 1.1rem;
+        margin: 20px 0;
+    }
+
+    #countdown span {
+        font-size: 1.8rem;
+    }
+
+    .email-signup {
+        margin-top: 30px;
+    }
+
+    .email-signup input, .email-signup button {
+        font-size: 0.9rem;
+        padding: 8px;
+    }
+}
+/* Existing styles remain unchanged */
+
+/* Mobile optimization */
+@media (max-width: 768px) {
+    .hero {
+        padding: 20px;
+        max-width: 90%;
+        box-sizing: border-box;
+
+    p {
+        font-size: 1rem; /* Smaller font size for paragraph text */
