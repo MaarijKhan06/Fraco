@@ -1,0 +1,169 @@
+/* styles.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Georgia', serif;
+    background: linear-gradient(135deg, #f3e7e9, #e3eeff);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero {
+    text-align: center;
+    color: #333;
+}
+
+h1 {
+    font-size: 4rem;
+    color: #8c7ae6;
+}
+
+#countdown span {
+    font-size: 2rem;
+    margin: 0 5px;
+    color: #333;
+}
+
+.email-signup input, .email-signup button {
+    padding: 10px;
+    border: none;
+    outline: none;
+}
+
+.email-signup button {
+    background-color: #8c7ae6;
+    color: #fff;
+    cursor: pointer;
+}
+
+.email-signup button:hover {
+    background-color: #706fd3;
+}
+/* styles.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Georgia', serif;
+    background-color: #e4e4e4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero {
+    text-align: center;
+    color: #333;
+}
+
+.logo {
+    width: 370px; /* Adjust size if needed */
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #8c7ae6;
+}
+
+#countdown span {
+    font-size: 2rem;
+    margin: 0 5px;
+    color: #333;
+}
+
+.email-signup {
+    margin-top: 40px; /* Move input lower */
+}
+
+.email-signup input, .email-signup button {
+    padding: 10px;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+}
+
+.email-signup input {
+    margin-right: 5px;
+}
+
+.email-signup button {
+    background-color: #8c7ae6;
+    color: #fff;
+    cursor: pointer;
+}
+
+.email-signup button:hover {
+    background-color: #706fd3;
+}
+/* styles.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Georgia', serif;
+    background-color: #e4e4e4;
+    background-image: url('https://www.transparenttextures.com/patterns/concrete-wall.png'); /* Concrete texture pattern */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero {
+    text-align: center;
+    color: #333;
+}
+
+.logo {
+    width: 370px; /* Increase size for prominence */
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #8c7ae6;
+}
+
+#countdown span {
+    font-size: 2rem;
+    margin: 0 5px;
+    color: #333;
+}
+
+.email-signup {
+    margin-top: 40px;
+}
+
+.email-signup input, .email-signup button {
+    padding: 10px;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+}
+
+.email-signup input {
+    margin-right: 5px;
+}
+
+.email-signup button {
+    background-color: #8c7ae6;
+    color: #fff;
+    cursor: pointer;
+}
+
+.email-signup button:hover {
+    background-color: #706fd3;
+}
+/* styles.css */
+
+.email-signup button {
+    background-color: #8c7ae6;
+    color: #fff;
+    cursor: pointer;
+}
+
+.email-signup button:hover {
+    background-color: #706fd3;
+}
